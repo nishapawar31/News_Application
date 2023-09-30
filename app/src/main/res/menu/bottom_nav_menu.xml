@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_one"
+            android:icon="@drawable/ic_newspaper"
+            android:title="ई-पेपर"/>
+        <item android:id="@+id/nav_two"
+            android:icon="@drawable/icon"
+            android:title="पश्चिम महाराष्ट्र"/>
+        <item android:id="@+id/nav_three"
+            android:icon="@drawable/icon_new"
+            android:title="उत्तर महाराष्ट्र"/>
+        <item android:id="@+id/nav_four"
+            android:icon="@drawable/icon_district"
+            android:title="जळगाव"/>
+
+    </group>
+</menu>
